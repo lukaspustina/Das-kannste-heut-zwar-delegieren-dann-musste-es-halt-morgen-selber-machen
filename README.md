@@ -2,7 +2,7 @@ Das kannste heut zwar delegieren dann musste es halt morgen selber machen
 =========================================================================
 
 ## WTF
-Entstanden als spontane Ausrufe im Rahmen eines dieser Tage™ im IT-Alltag von [Daniel @dschneller Schneller](https://twitter.com/dschneller) und [Lukas @drivebytesting Pustina](https://twitter.com/drivebytesting). 
+Entstanden als spontane Ausrufe im Rahmen einer dieser Tage™ im IT-Alltag von [Daniel @dschneller Schneller](https://twitter.com/dschneller) und [Lukas @drivebytesting Pustina](https://twitter.com/drivebytesting). 
 
 
 ## Lizenz
